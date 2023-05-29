@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+h2 {
+  color: blue;
+}
+.first-h3 {
+  color: green;
+}
+
+main {
+  width: min(1280px, 90%);
+  margin-inline: auto;
+}
+
+img {
+  max-width: 100%;
+}
